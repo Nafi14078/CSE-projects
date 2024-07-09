@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ATM Management System</title>
+    
 </head>
 <body>
 
@@ -20,6 +20,8 @@
     <li><strong>Bill Payment:</strong> Pay bills such as electricity using the ATM.</li>
     <li><strong>Receipt Generation:</strong> Generate and print receipts for transactions.</li>
     <li><strong>Error Handling:</strong> Handle errors and exceptions gracefully.</li>
+     <li><strong>Error Handling:</strong> Can see interest rate.</li>
+     <li><strong>Error Handling:</strong> Can see transaction History.</li>
 </ul>
 
 <h2>Getting Started</h2>
