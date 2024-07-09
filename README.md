@@ -20,8 +20,8 @@
     <li><strong>Bill Payment:</strong> Pay bills such as electricity using the ATM.</li>
     <li><strong>Receipt Generation:</strong> Generate and print receipts for transactions.</li>
     <li><strong>Error Handling:</strong> Handle errors and exceptions gracefully.</li>
-     <li><strong>Error Handling:</strong> Can see interest rate.</li>
-     <li><strong>Error Handling:</strong> Can see transaction History.</li>
+     <li><strong>Interest rate:</strong> Can see interest rate.</li>
+     <li><strong>Transaction History:</strong> Can see transaction History and also delete them.</li>
 </ul>
 
 <h2>Getting Started</h2>
