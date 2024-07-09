@@ -70,8 +70,6 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
 
-<h2>Acknowledgments</h2>
-<p>Thanks to <a href="https://www.openai.com">OpenAI</a> for providing the language model used to generate this ReadMe file.</p>
 
 </body>
 </html>
